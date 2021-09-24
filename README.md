@@ -1,2 +1,2 @@
-# java-script-e-ecma-script-basico
+# javascript-e-ecmascript-basico
 Curso básico de javascript moderno
